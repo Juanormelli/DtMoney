@@ -5,9 +5,10 @@ const GlobalStyle = createGlobalStyle`
     :root{
         --background:#f0f2f5;
         --red:#E52E4D;
+        --green: #33cc95;
         --blue:#5429cc;
 
-        --blue-ligth:#6933FF;
+        --blue-light:#6933FF;
 
         --text-title:#363f5f;
         --text-body:#969CB3;
